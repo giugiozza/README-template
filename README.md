@@ -1,3 +1,3 @@
-# Templates
+# README Templates
 
-Templates in Markdown.
+Templates in Markdown for README files.
