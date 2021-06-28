@@ -1,1 +1,3 @@
-# markdown-templates
+# Templates
+
+Templates in Markdown.
